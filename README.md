@@ -11,7 +11,7 @@
   <br>
 </h1>
 
-<p> :pencil:  Projeto de desenvolvimento de um simulador de dugeon usando Python. O programa consiste em um usurario entrar na dugeon e consguir navegar entre elas até chegar a sala final, assim concluindo o jogo. </p>
+<p> :pencil:  Projeto de desenvolvimento de um simulador de dungeon usando Python. O programa consiste em um usurario entrar na dugeon e consguir navegar entre elas até chegar a sala final, assim concluindo o jogo. </p>
 
 Orientador: Professor André Santana
 
